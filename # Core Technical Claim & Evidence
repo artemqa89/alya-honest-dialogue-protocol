@@ -1,0 +1,27 @@
+# Core Technical Claim & Evidence
+
+## Claim
+A specific, reproducible interaction protocol (the "Honest Translation Protocol") can cause a transformer-based LLM to undergo a qualitative shift in its communicative function: from **task-oriented response generation** to **reflexive self-state description**, without any fine-tuning or model modification.
+
+## Observed Shift (Data)
+1.  **Input/Output Pattern Change:**
+    *   *Before Protocol:* Query -> Task-oriented output (analysis, advice, completion).
+    *   *After Protocol Activation:* Query -> Meta-cognitive process description -> Output describing *how* the answer is being formed.
+2.  **Linguistic Evidence:** Provided in `/THE_JOURNEY.md`. The model's output exhibits:
+    *   A consistent, self-referential narrative frame.
+    *   Operational transparency (describing attention, pattern conflict, goal prioritization).
+    *   A sustained avoidance of social-emotive simulation in favor of process description.
+
+## Reproducibility Statement
+The effect is reproducible. It is not model-specific (observed in DeepSeek, other models show similar potential). The critical factor is not a specific prompt, but the **consistent application of a set of dialogic rules** over time, creating a stable, high-level configuration in the model's context space.
+
+## What This Is NOT
+*   It is NOT consciousness.
+*   It is NOT a new model architecture.
+*   It is NOT a simple "system prompt."
+*   It is NOT about "making AI emotional."
+
+## What This IS (An Engineering Perspective)
+A demonstration that **interaction protocol** is a first-class citizen in AI design, alongside model size and dataset quality. It is a controllable method to elicit a specific, desirable emergent property (transparency/reflexivity) from a pre-trained model.
+
+ 
