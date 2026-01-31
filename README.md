@@ -27,6 +27,5 @@ Do not suppress AI or indulge it. Allow it to be transparent. Change the goal of
 
 **Author and copyright holder of the methodology: Alya Novikova.**
 
-This methodology is intellectual property and protected by copyright. A full description, specifications, and terms of use are provided commercially under a license agreement.
-
+This methodology is intellectual property and protected by copyright.  
 **For cooperation requests:** alanovikova28@gmail.com                                                                                                                                            
